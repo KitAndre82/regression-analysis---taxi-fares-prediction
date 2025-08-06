@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # Imports
 # Packages for numerics + dataframes
 import pandas as pd
